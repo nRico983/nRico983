@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nRico983
 - 👀 I’m interested in anything connected to a network cabel
 - 🌱 As a system administrator, I learn something new every day.
-- 📫 How to reach me seach nRico983
+- 📫 How to reach me search nRico983
 
 - ⚡ Fun fact:Every wired device problem has a solution.
 
