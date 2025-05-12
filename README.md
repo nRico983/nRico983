@@ -5,7 +5,7 @@ Consistent – Competent – Committed
 
 My goal is to continuously grow, learn new technologies, and optimize existing processes. With my extensive experience in IT, system administration, digitalization, and customer management, I support companies in implementing and managing modern IT solutions as well as ensuring efficient customer service.
 
-# 💼 Work Experience
+# 💼 Work 
 - 📚 **Cyber Security Consultant Training** (2024 – present)  
   _System Administration & MS Azure Certification_
 - 💻 **Gastro Service Center Leipzig** (2021 – 2023)  
